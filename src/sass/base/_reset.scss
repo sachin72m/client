@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root{
+    --text-white: #fff;
+     --bg-color : #FFFFFF;
+     --text-color : #050505;
+     --icon-bg-color : #F5F5F5;
+     --icon-color : #414141;
+     --search-bg : #868e991a;
+     --active-color : #0000000a;
+     --border-color : #E5E5E5;
+     --message-icon-color : #0099FF;
+     --fd-message-bg : #E5E5E5;
+     --my-message-bg : #0084FF;
+     --my-message-color : #fff;
+     --fd-message-color : #050505;
+     --image-border-color : rgb(155, 153, 153);
+     --active-icon-color : #5AD539;
+     --hover-color : #bcbcc091;
+}
+
+body{
+    background-color: #041a4dbf;
+    font-family: 'Robot', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
